@@ -1,0 +1,205 @@
+body{
+    margin: 0ch;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .navbartop{
+    overflow: hidden;
+    background-color:#f8f8f8;
+    width: 100%;
+    padding-right: 90px;
+    padding-left: 150px;
+    word-spacing: 0.1px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1525px;
+  }
+
+  a:link,a:visited {
+    color: rgb(250, 242, 242);
+    text-decoration: none;
+  }
+  .navbarmid {
+    overflow: hidden;
+    background-color:#ffffff;
+    top: 0;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1525px;
+    display: flex;
+  
+  }
+
+  .contactdiv{
+    padding-top: 10px;
+    padding-left:300px;
+    word-spacing: 6.5px;
+  }
+  .locationdiv{
+    padding-top: 10px;
+    padding-left:122px ;
+    word-spacing: 6.5px;
+  }
+  .buttondiv{
+    padding-top: 10px;
+    padding-left:122px ;
+  }
+.social-icons{
+    float:right;
+    word-spacing: 10.1px;
+    padding-right: 100px;
+    
+}
+
+
+
+ .button1 {
+    background-color: white;
+    top: 0;
+    border: 3px solid #79b530;
+    color: #79b530;
+    padding: 2px 4px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  .button2 {
+    background-color: rgba(0,0,0,0.5);
+    border: 3px solid #fbfcf9;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  
+  }
+  .button2:focus{
+    background-color: #79b530;
+    border: 3px solid #79b530;
+  }
+  
+  .button1:hover {
+    background-color: #79b530;
+    color: white;
+  }
+  .button2:hover {
+    background-color: #79b530;
+    color: rgb(255, 255, 255);
+    border: 3px solid #79b530;
+  }
+
+ 
+.navbarmain {
+    overflow: hidden;
+    background-color:#79b530;
+    
+    top: 0;
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1525px;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    word-spacing: 41px;
+  }
+
+
+
+  .banner{
+    width: 200px;
+    height: 300px;
+    position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1525px;
+  }
+  .centered {
+    position: absolute;
+    top: 70%;
+    left: 35%;
+    RIGHT:35%
+      }
+
+  .box1{
+    position: absolute;
+    top: 690px;
+    right: 275px;
+    left: 150px;
+    width: 300px;
+    height: 300px;
+    background-color: #4886ff;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-bottom: 150px;
+    padding-left: 35px;
+    text-align: center;
+    
+  }
+  .box2{
+    position: absolute;
+    top: 690px;
+    right: 275px;
+    left: 450px;
+    margin-bottom: 200px;
+    width: 300px;
+    height: 300px;
+    background-color: #ff6f6f;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-bottom: 150px;
+    padding-left: 35px;
+    text-align: center;
+    
+
+  }
+  .box3{
+    position: absolute;
+    top: 690px;
+    right: 275px;
+    left: 750px;
+    width: 300px;
+    height: 300px;
+    background-color: #b5d56a;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-bottom: 150px;
+    padding-left: 35px;
+    text-align: center;
+  }
+  .box4{
+    position: absolute;
+    top: 690px;
+    right: 275px;
+    left: 1050px;
+    width: 300px;
+    height: 300px;
+    background-color: #fa8147;
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-bottom: 150px;
+    padding-left: 35px;
+  }
+  
+
+  .white-color {
+    color:rgb(249, 249, 253);
+    }
+
+    .green {
+        color:#79b530;
+        }
+    
